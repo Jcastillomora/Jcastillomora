@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## 💻 Backend Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,ubuntu, debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,ubuntu,debian)](https://skillicons.dev)
