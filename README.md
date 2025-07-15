@@ -16,6 +16,26 @@ Here are some ideas to get you started:
 -->
 ![Jcastillomora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcastillomora&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 💻 Backend Stack:
+## 💻 Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,ubuntu,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,php)](https://skillicons.dev)
+
+## 🛠️ Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi)](https://skillicons.dev)
+
+## 🎨 Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev)
+
+## ☁️ Servicios en la nube
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
+
+## 💾 Bases de datos
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+
+## 🌐 Desarrollo web
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,cloudflare,git,nginx,dokcer)](https://skillicons.dev)
