@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ## 🌐 Desarrollo web
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,cloudflare,git,nginx,dokcer)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,cloudflare,git,nginx,dokcer)](https://skillicons.dev)
