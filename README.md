@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jcastillomora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcastillomora&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+## 💻 Backend Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,ubuntu, debian)](https://skillicons.dev)
